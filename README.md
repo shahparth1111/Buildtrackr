@@ -1,5 +1,5 @@
-# Buildtrackr
-![BuildTrackr]([http://url/to/img.png](https://smatter.app/assets/buildtrackr/buildtrackr-banner.jpg))
+# BuildTrackr
+![BuildTrackr]([https://smatter.app/assets/buildtrackr/buildtrackr-banner.jpg])
 Transparency in Construction, Powered by BuildTrackr.
 
 BuildTrackr:
