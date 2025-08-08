@@ -1,4 +1,4 @@
-# BuildTrackr by Smatter
+# BuildTrackr by [Smatter](https://smatter.app)
 ![](https://smatter.app/assets/buildtrackr/buildtrackr-banner.jpg)
 Transparency in Construction, Powered by BuildTrackr.
 
