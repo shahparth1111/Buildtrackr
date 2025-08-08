@@ -1,4 +1,4 @@
-# buildtrackr
+# Buildtrackr
 Transparency in Construction, Powered by BuildTrackr.
 
 BuildTrackr:
