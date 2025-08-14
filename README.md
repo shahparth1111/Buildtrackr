@@ -2,6 +2,19 @@
 ![](https://smatter.app/assets/buildtrackr/buildtrackr-banner.jpg)
 Transparency in Construction, Powered by BuildTrackr.
 
+Google Play Store Certificate: Published on 8 Nov 2023
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.smatter.buildtrackr",
+      "sha256_cert_fingerprints":
+        ["0E:8B:FB:DD:37:B8:F1:8F:83:92:B8:39:3E:65:82:FD:5B:F3:AB:EE:90:60:79:A6:1F:22:B3:D2:A3:38:A1:4F"]
+    }
+  }
+]
+
 BuildTrackr:
 Introducing BuildTrackr, the innovative solution that brings transparency and security to your construction projects.
 
