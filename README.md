@@ -15,7 +15,7 @@ Google Play Store Certificate: Published on 8 Nov 2023
   }
 ]
 
-BuildTrackr:
+BuildTrackr: (OpenSource Web App Coming Soon for Authorities)
 Introducing BuildTrackr, the innovative solution that brings transparency and security to your construction projects.
 
 📸 Capture Deliveries, Ensure Accountability:
