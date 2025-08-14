@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091309946044",
+    "project_id": "buildtrackr-opensource",
+    "storage_bucket": "buildtrackr-opensource.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091309946044:android:25ad50e729dd1dcbdd3cb9",
+        "android_client_info": {
+          "package_name": "com.smatter.buildtrackr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKbfIbYLDXZJi1zjloj5NPaolhG9jeCrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
