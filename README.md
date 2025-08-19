@@ -4,7 +4,7 @@ Transparency in Construction, Powered by BuildTrackr.
 Introducing BuildTrackr, the innovative solution that brings transparency and security to your construction projects.
 
 Google Play Store: Published on 8 Nov 2023
-[BuildTrackr Google Play Listing]([https://smatter.app](https://play.google.com/store/apps/details?id=com.smatter.buildtrackr))
+[BuildTrackr Google Play Listing](https://play.google.com/store/apps/details?id=com.smatter.buildtrackr)
 
 📸 Capture Deliveries, Ensure Accountability:
 With BuildTrackr, you're in control. Snap a picture of every delivery, whether it's a cement truck, steel beams, or any other raw material. Each photo is automatically timestamped, creating an indisputable record of when and what was delivered.
